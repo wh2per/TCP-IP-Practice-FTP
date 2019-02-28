@@ -7,7 +7,7 @@
   + Server, Client
     <img src="no1/과제1.png">
   + Input right value
-    <img src="no1/과제1_2.png">    
+    <img src="no1/과제1_history.png">    
 + ### no2
   + Server, Client
     <img src="no2/과제2 스크린샷.png"> 
